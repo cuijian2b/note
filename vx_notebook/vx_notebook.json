@@ -1,0 +1,20 @@
+{
+    "attachment_folder": "vx_attachments",
+    "config_mgr": "vx.vnotex",
+    "created_time": "2021-10-28T10:19:53Z",
+    "description": "",
+    "extra_configs": {
+    },
+    "history": [
+        {
+            "last_accessed_time": "2021-10-28T10:42:06Z",
+            "line_number": 216,
+            "path": "Linux命令行.md"
+        }
+    ],
+    "image_folder": "vx_images",
+    "name": "note",
+    "tag_graph": "",
+    "version": 2,
+    "version_controller": "dummy.vnotex"
+}
